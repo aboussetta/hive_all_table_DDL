@@ -1,4 +1,4 @@
-JDBC_STRING="jdbc:hive2://rpc11711.corp.ncr.com:2181,rpc11712.corp.ncr.com:2181,rpc11713.corp.ncr.com:2181/;serviceDiscoveryMode=zooKeeper;zooKeeperNamespace=hiveserver2"
+JDBC_STRING=""
 LINE_SEPARATOR="---------------------------------------------------------------------"
 LINE_SEPARATOR_MINI="------------"
 declare -a db_array
