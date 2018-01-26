@@ -1,0 +1,1 @@
+# hive_all_table_DDL
